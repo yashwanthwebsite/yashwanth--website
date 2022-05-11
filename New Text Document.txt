@@ -1,5 +1,0 @@
-h1:hover
-{
-font-size:250%;
-font-color:red;
-}
