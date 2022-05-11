@@ -1,0 +1,23 @@
+body{
+background-image:url(16.jpg);
+background-size:cover;
+}
+li{
+list-style:none;
+}
+a{
+text-decoration:none;
+}
+a{
+position:absolute;
+top:45%;
+left:50%;
+font-size:150px;
+color:white;
+transform: translate(-50%, -50%);
+}
+a:hover{
+background-color:orange;
+border-radius:30%;
+
+}

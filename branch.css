@@ -1,0 +1,13 @@
+body{
+background-image:url(15.jpeg) ;
+}
+h1
+{
+font-size:700%;
+color:white;
+font-items:center;
+position: absolute;
+	left: 50%;
+	top: 35%;
+	transform: translate(-50%, -50%);
+}

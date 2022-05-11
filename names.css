@@ -1,0 +1,46 @@
+body
+{ 
+background: url(13.jpg);
+}
+h1
+{
+font-size:400%;
+
+}
+a{
+color:black;
+}
+
+a:hover{
+background:green;
+border-radius:50px;
+}
+
+}
+.navbar{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	top: 5;
+	left: 0;
+	
+
+}
+.navbar ul{
+	float: center;
+	
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-10px;
+	line-height: 80px;
+}
+.navbar ul li a{
+	font-size: 100px;
+	font-family: algerian;
+	color: black;
+	padding: 8px 10px;
+                   text-decoration: none;
+	
+                   
+}
