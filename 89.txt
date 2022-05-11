@@ -1,9 +1,0 @@
-<html>
-<title>personal deatils</title>
-<h4>
-NAME       : YASHWANTH.M
-USN           : 1SJ20CS412
-BRANCH  : COMPUTER SCIENCE AND ENGINEERING
-SEM           : 6th 
-SEC            : C </h4>
-</html>
